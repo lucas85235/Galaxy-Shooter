@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 896c6bbdd796d2c4e9a2e37ba6006e80
+timeCreated: 1531439267
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tripleShootPowerup: {fileID: 1590373981150036, guid: 10f849ef9a84b324e870c8ab7e8307b2,
+      type: 2}
+  - speedBoostPowerup: {fileID: 1679557670386180, guid: 3f227d8c8f61242449dc669ae652d1a3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
